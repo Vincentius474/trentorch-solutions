@@ -1,3 +1,6 @@
+<img width="907" height="647" alt="image" src="https://github.com/user-attachments/assets/ec33a284-3557-4017-a910-da2acf49e998" />
+
+
 # Sobel Edge Detection
 
 Beginner | computer-vision | edges | convolution

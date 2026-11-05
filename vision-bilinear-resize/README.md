@@ -1,3 +1,6 @@
+<img width="905" height="657" alt="image" src="https://github.com/user-attachments/assets/e8e8aa9f-9646-4db7-ba93-446e5fefccad" />
+
+
 # Bilinear Interpolation
 
 Intermediate | computer-vision | interpolation | resize
